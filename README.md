@@ -12,10 +12,6 @@
 </p>
 
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=404th" alt="404th" /></a> 
-</p>
-
-<p align="center"> 
   <a href="https://twitter.com/zerikiw" target="blank"><img src="https://img.shields.io/twitter/follow/zerikiw?logo=twitter&style=for-the-badge" alt="zerikiw" /></a> 
 </p>
 
