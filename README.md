@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Doniyor.</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
-<div align=center>
+<div align="center">
+  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/404th?theme=dark&font=Source%20Code%20Pro&ext=activity)
+
 </div>
 
 <p align="center">
