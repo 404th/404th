@@ -1,4 +1,4 @@
-![](https://leetcard.jacoblin.cool/404th?theme=dark&font=Alata&ext=activity)
+<div style="width=100% display=flex align-items=center justify-content=center ">![](https://leetcard.jacoblin.cool/404th?theme=dark&font=Alata&ext=activity)</div>
 
 <h1 align="center">Hi 👋, I'm Doniyor.</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
@@ -34,10 +34,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/four0fourth"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="four0fourth" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=404th&show_icons=true&locale=en&layout=compact" alt="404th" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=404th&show_icons=true&locale=en" alt="404th" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=404th&" alt="404th" /></p>
 
