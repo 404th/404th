@@ -11,13 +11,17 @@
   <img src="https://komarev.com/ghpvc/?username=404th&label=Profile%20views&color=0e75b6&style=flat" alt="404th" />
 </p>
 
-<p align="center"> - 🔭 I’m currently working on [system of construction in Uzbekistan](https://ccnis.uz/login)</p>
+<div align="center">
+
+- 🔭 I’m currently working on [system of construction in Uzbekistan](https://ccnis.uz/login)</p>
   
-<p align="center"> - 👨‍💻 All of my projects are available at [https://github.com/404th](https://github.com/404th)</p>
+- 👨‍💻 All of my projects are available at [https://github.com/404th](https://github.com/404th)</p>
 
-<p align="center"> - 📫 How to reach me **https://www.linkedin.com/in/four0fourth/**</p>
+- 📫 How to reach me **https://www.linkedin.com/in/four0fourth/**</p>
 
-<p align="center"> - 📄 Know about my experiences [https://t.me/+VPrVgL3K6oEyY2Yy](https://t.me/+VPrVgL3K6oEyY2Yy)</p>
+- 📄 Know about my experiences [https://t.me/+VPrVgL3K6oEyY2Yy](https://t.me/+VPrVgL3K6oEyY2Yy)</p>
+
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
