@@ -7,10 +7,6 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=404th&label=Profile%20views&color=0e75b6&style=flat" alt="404th" />
-</p>
-
 - 🔭 I’m currently working on [system of construction in Uzbekistan](https://ccnis.uz/login)</p>
   
 - 👨‍💻 All of my projects are available at [https://github.com/404th](https://github.com/404th)</p>
@@ -34,4 +30,6 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/four0fourth"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="four0fourth" /></a></p><br><br>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=404th&label=Profile%20views&color=0e75b6&style=flat" alt="404th" />
+</p>
