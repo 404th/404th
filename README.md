@@ -11,10 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=404th&label=Profile%20views&color=0e75b6&style=flat" alt="404th" />
 </p>
 
-<p align="center"> 
-  <a href="https://twitter.com/zerikiw" target="blank"><img src="https://img.shields.io/twitter/follow/zerikiw?logo=twitter&style=for-the-badge" alt="zerikiw" /></a> 
-</p>
-
 - 🔭 I’m currently working on [system of construction in Uzbekistan](https://ccnis.uz/login)
 
 - 👨‍💻 All of my projects are available at [https://github.com/404th](https://github.com/404th)
