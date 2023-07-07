@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 
 <div align=center>
-  ![](https://leetcard.jacoblin.cool/404th?theme=dark&font=Alata&ext=activity)
+![](https://leetcard.jacoblin.cool/404th?theme=dark&font=Alata&ext=activity)
 </div>
 
 <img src="https://giphy.com/embed/M16EnP70Vd6abjtsJT/video" width="480">
